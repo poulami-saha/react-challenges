@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-challenges/static/css/main.74975f67.css",
-    "main.js": "/react-challenges/static/js/main.f3810541.js",
-    "index.html": "/react-challenges/index.html",
-    "main.74975f67.css.map": "/react-challenges/static/css/main.74975f67.css.map",
-    "main.f3810541.js.map": "/react-challenges/static/js/main.f3810541.js.map"
+    "main.css": "/react-challenges/quiz-app/static/css/main.74975f67.css",
+    "main.js": "/react-challenges/quiz-app/static/js/main.f3810541.js",
+    "index.html": "/react-challenges/quiz-app/index.html",
+    "main.74975f67.css.map": "/react-challenges/quiz-app/static/css/main.74975f67.css.map",
+    "main.f3810541.js.map": "/react-challenges/quiz-app/static/js/main.f3810541.js.map"
   },
   "entrypoints": [
     "static/css/main.74975f67.css",

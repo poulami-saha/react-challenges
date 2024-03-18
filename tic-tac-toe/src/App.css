@@ -1,0 +1,55 @@
+body {
+  background-color: lightpink;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+  color: white;
+  font-size: xx-large;
+  font-weight: bold;
+}
+.winner {
+  color: white;
+  font-size: large;
+}
+.grid {
+  width: 20rem;
+  height: 20rem;
+  padding: 3rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+.box {
+  height: 4rem;
+  width: 4rem;
+  border: 0.15rem solid white;
+  border-radius: 0.25rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: bolder;
+  font-size: x-large;
+  cursor: pointer;
+  background-color: lightpink;
+}
+.disableGrid {
+  pointer-events: none;
+}
+.reset {
+  width: 7rem;
+  height: 2rem;
+  background-color: white;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+  color: lightpink;
+  font-weight: bold;
+}
